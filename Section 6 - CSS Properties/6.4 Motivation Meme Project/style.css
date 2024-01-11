@@ -1,0 +1,29 @@
+
+
+html {
+    background-color: black;
+    text-align: center;
+  }
+
+  #motivation {
+    background-color: rgb(0, 0, 0);
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+  }
+
+  h1 {
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+    color: white;
+  }
+
+  p {
+    text-transform: uppercase;
+    color: white;
+  }
+
+  #image {
+    width: 100%;
+    border: 5px solid white;
+  }
